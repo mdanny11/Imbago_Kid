@@ -5,53 +5,29 @@ import Link from "next/link"
 export function TeamSection() {
   const teamMembers = [
     {
-      name: "Dr. Maria Santos",
+      name: "BScN SHARANGABO Clement",
       role: "Founder & Executive Director",
       bio: "Pediatric researcher with 15+ years of experience in global health initiatives and community-based healthcare solutions.",
-      image: "/hispanic-female-doctor-headshot.png",
+      image: "/Executive.JPG",
       linkedin: "#",
-      email: "maria.santos@imbagocarekid.org",
+      email: "sharangaboclement@gmail.com"
     },
     {
-      name: "Dr. James Chen",
+      name: "BScN BIZIMANA Joy",
       role: "Director of Research",
       bio: "Leading epidemiologist specializing in child health outcomes and innovative research methodologies in underserved populations.",
-      image: "/asian-male-researcher-headshot.png",
+      image: "/Research.PNG",
       linkedin: "#",
-      email: "james.chen@imbagocarekid.org",
+      email: "joybizimana@gmail.com"
     },
     {
-      name: "Sarah Williams",
+      name: "SBScN RUGWIRO Henry",
       role: "Program Manager",
       bio: "Community health advocate with expertise in program development, implementation, and sustainable healthcare delivery systems.",
-      image: "/african-american-female-program-manager-headshot.png",
+      image: "/Manager.JPG",
       linkedin: "#",
-      email: "sarah.williams@imbagocarekid.org",
-    },
-    {
-      name: "Dr. Ahmed Hassan",
-      role: "Global Partnerships Director",
-      bio: "International development specialist focused on building strategic partnerships and fostering collaboration across continents.",
-      image: "/placeholder-6z2in.png",
-      linkedin: "#",
-      email: "ahmed.hassan@imbagocarekid.org",
-    },
-    {
-      name: "Lisa Rodriguez",
-      role: "Community Outreach Coordinator",
-      bio: "Bilingual community organizer with deep experience in grassroots health education and family engagement programs.",
-      image: "/latina-community-coordinator-headshot.png",
-      linkedin: "#",
-      email: "lisa.rodriguez@imbagocarekid.org",
-    },
-    {
-      name: "Dr. Michael Thompson",
-      role: "Medical Advisor",
-      bio: "Pediatric specialist and former WHO consultant providing clinical expertise and medical guidance for our programs.",
-      image: "/caucasian-male-doctor-headshot.png",
-      linkedin: "#",
-      email: "michael.thompson@imbagocarekid.org",
-    },
+      email: "shenrychaste@gmail.com"
+    }
   ]
 
   return (
